@@ -14,11 +14,11 @@ The Image below is something that I want to do with the App. If someone is inter
 ## What's new:
 
 - New UI
-- Seperate UI/Bug Report Option [[Open Suggestion](https://t.me/The_Positive_Viewer) ]
+- Seperate Bug / Report Option [[ Open Suggestion](https://t.me/The_Positive_Viewer) ]
 
 ## Feature Idea's
 
-- Shared/Teamed Drive
+- Shared/Teamed Drive Support
 
 ## Bug Report:
 
