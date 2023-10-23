@@ -1,25 +1,5 @@
-# Solid Explorer Pro
-> version 2.8.23 Built 200255
+# About
+[@Radioactive](https://github.com/Coolboyrajat)
+File Explorer UI
 
-## Hi Everyone, I'm Rajat and I'm not an Android Developer. 
-The Image below is something that I want to do with the App. If someone is interested please let me know 
-[Open Suggestion](https://t.me/The_Positive_Viewer)
-
-<div align=center>
-  <img src="Image 1.jpg" alt="Image" height=1000 width=450 /> • <img src="Image 2.jpg" alt="Image" height=1000 width=450 /> 
-  <img src="Image 3.jpg" alt="Image" height=1000 width=450 /> • <img src="Image 4.jpg" alt="Image" height=1000 width=450 /> 
-</div>
-
-
-## What's new:
-
-- New UI
-- Seperate Bug / Report Option [[ Open Suggestion](https://t.me/The_Positive_Viewer) ]
-
-## Feature Idea's
-
-- Shared/Teamed Drive Support
-
-## Bug Report:
-
-
+![First Glance (Explorer)](https://github.com/Coolboyrajat/File-Explorer-Pro/assets/67316346/1b3cb031-5f07-41f7-9505-bd04e86316dc)
